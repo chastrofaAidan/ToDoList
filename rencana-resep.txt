@@ -3,3 +3,4 @@ RECIPES PLANNED:
 - Egg Sandwich
 - Churros
 - Croquembouches
+- Galette
